@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family:'Josefin Sans';
+}
+
+.menu {
+	font-size: 30px;
+	list-style: none;
+}
+li {
+	padding-right: 20px;
+	float: left;
+}
+.criadores{
+	margin-top: 30px;
+	display:flex;
+	text-align: center;
+	margin-left: 40px;
+}
+.criadores img{
+	height: 350px;
+	width:370px;
+	border:10px solid;
+	border-color: lightseagreen;
+	border-radius: 200px;
+	box-shadow: 3px 3px 10px 3px rgb(7, 53, 80);
+}
+.criadores p{
+	color: lightseagreen;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.raissa{
+	margin-left: 50px;
+}
